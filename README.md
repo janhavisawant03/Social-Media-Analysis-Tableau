@@ -37,11 +37,6 @@ The dashboard provides insights based on:
 
 ---
 
-## 🖼 Dashboard Preview
-![Dashboard](dashboard.png)
-
----
-
 ## 👩‍💻 Author
 **Janhavi**  
 BSc Computer Science (2nd Year)  
