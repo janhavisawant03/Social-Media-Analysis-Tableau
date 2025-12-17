@@ -1,5 +1,3 @@
-# Social-Media-Analysis-Tableau
-Tableau dashboard analyzing social media usage, stress, sleep and productivity
 # Social Media Analysis – Tableau Dashboard
 
 ## 📌 Project Overview
